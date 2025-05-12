@@ -13,7 +13,7 @@ function CounterFun(props) {
 
   return (
     <div className="container">
-      <h1>Counter From Class</h1>
+      <h1>Counter From Functioass</h1>
       <h1>Count: {count}</h1>
       <button onClick={handleIncrease}>Increase</button>{" "}
       <button onClick={handleDecreas}>Decrease</button>
